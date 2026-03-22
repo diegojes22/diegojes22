@@ -1,16 +1,116 @@
-## Hi there 👋
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;" id="header">
+    <!--Name & Animation wave-->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007eff,100:0f4f99&height=180&section=header&text=Diego%20Muñoz%20&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20Networks%20%7C%20Telecommunications&descAlignY=54&descSize=16" width="100%">
+    <!--Visitas en GitHub-->
+    <a href="https://github.com/diegojes22">
+        <img src="https://komarev.com/ghpvc/?username=diegojes22&color=007eff&label=Visitas%20a%20mi%20perfil">
+    </a>
+    <!--Typing & phrases-->
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=500&color=007eff&center=true&vCenter=true&multiline=false&width=500&height=50&lines=No+saben+linux?;I+♥+Python;I+didn't+know+what+to+put+here;Hello,+World!;ASM+is+powerful;Absolute+Solver???;DaiNet+Telecomunicaciones" title="Hola">
+</div>
 
-<!--
-**diegojes22/diegojes22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------
+## Sobre mi
+<div id="about">
+    <div class="about-me-text">
+        <p>Hola, Me llamo <b>Diego</b> pero para mas facil puedes llamarme D</p>
+        <p>Soy alguien a quien le gusta programar por diversion, en este momento soy estudiante y tambien trabajo en una empresa de telecomunicaciones.</p>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;" class="about-cards">
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+            <h4>Rol</h4>
+            <p>Full Stack Developer</p>
+        </div>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+            <h4>Estudios</h4>
+            <p>Ing. en Sistemas Computacionales<br><strong>TecNM</strong></p>
+        </div>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+            <h4>Ubicación</h4>
+            <p>México</p>
+        </div>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+            <h4>Enfoque</h4>
+            <p>FullStack, infraestructura y telecomunicaciones</p>
+        </div>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+            <h4>Aprendiendo</h4>
+            <p>Desarrollo movil, JWT, Angular, Kotlin</p>
+        </div>
+    </div>
+</div>
 
-Here are some ideas to get you started:
+----------
+## Tech Stack
+<div id="stack" style="display: flex; align-items: center; justity-content: center;  flex-direction: column; text-aling: center; background: #0d1117; border-radius: 5px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languajes**
+<div>
+    <!--C++-->
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <!--Java-->
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <!--JavaScript-->
+    <img src="https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <!--Python-->
+    <img src="https://img.shields.io/badge/python-007eff?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <!--Netwide Assembler-->
+    <img src="https://img.shields.io/badge/NASM-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
+</div>
+
+**Frontend**
+<div>
+<!--React JS-->
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<!--React Native-->
+<img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<!--Astro-->
+<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+</div>
+
+**Backend & Infraestructure**
+<div>
+    <!--Fast API-->
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+    <!--NodeJS-->
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <!--Vercel-->
+    <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</div>
+
+**Databases**
+<div>
+    <!--MySQL-->
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <!--MongoDB-->
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <!--PostgreSQL-->
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
+**Tools**
+<div align="center">
+    <!--Figma-->
+    <img src="https://img.shields.io/badge/figma-0d1117.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E">
+    <!--Git-->
+    <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+    <!--GitHub-->
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <!--Linux-->
+    <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+    <!--VS Code-->
+    <img src="https://img.shields.io/badge/VSCode-%230d1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
+    <!--Jira-->
+    <img src="https://img.shields.io/badge/jira-%230d1117.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF">
+</div>
+</div>
+
+----------
+## GitHub Stats
+<div
+id="stats"
+style="display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 5px;"
+>
+    <img src="https://github-readme-stats.vercel.app/api?username=diegojes22&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojes22&layout=compact&hide_border=true&theme=github_dark">
+</div>
