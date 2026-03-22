@@ -6,7 +6,7 @@
         <img src="https://komarev.com/ghpvc/?username=diegojes22&color=007eff&label=Visitas%20a%20mi%20perfil">
     </a>
     <!--Typing & phrases-->
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=500&color=007eff&center=true&vCenter=true&multiline=false&width=500&height=50&lines=No+saben+linux?;I+♥+Python;I+didn't+know+what+to+put+here;Hello,+World!;ASM+is+powerful;Absolute+Solver???;DaiNet+Telecomunicaciones" title="Hola">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=500&color=007eff&center=true&vCenter=true&multiline=false&width=500&height=50&lines=No+saben+linux%3F;I+%E2%99%A5+Python;I+didn%27t+know+what+to+put+here;Hello%2C+World!;ASM+is+powerful;Absolute+Solver%3F%3F%3F;DaiNet+Telecomunicaciones">
 </div>
 
 ----------
