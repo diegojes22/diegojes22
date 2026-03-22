@@ -16,28 +16,43 @@
         <p>Hola, Me llamo <b>Diego</b> pero para mas facil puedes llamarme D</p>
         <p>Soy alguien a quien le gusta programar por diversion, en este momento soy estudiante y tambien trabajo en una empresa de telecomunicaciones.</p>
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;" class="about-cards">
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+    <table align="center">
+    <tr>
+        <td>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
             <h4>Rol</h4>
             <p>Full Stack Developer</p>
         </div>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+        </td>
+        <td>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
             <h4>Estudios</h4>
             <p>Ing. en Sistemas Computacionales<br><strong>TecNM</strong></p>
         </div>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+        </td>
+        <td>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
             <h4>Ubicación</h4>
             <p>México</p>
         </div>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
             <h4>Enfoque</h4>
-            <p>FullStack, infraestructura y telecomunicaciones</p>
+            <p>FullStack, infra y telecom</p>
         </div>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:08px;padding:12px;width:220px;cursor: pointer;">
+        </td>
+        <td>
+        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
             <h4>Aprendiendo</h4>
-            <p>Desarrollo movil, JWT, Angular, Kotlin</p>
+            <p>Android, JWT, Angular</p>
         </div>
-    </div>
+        </td>
+        <td></td>
+    </tr>
+    </table>
 </div>
 
 ----------
