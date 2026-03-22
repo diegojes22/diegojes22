@@ -1,12 +1,12 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;" id="header">
+<div align="center" id="header">
     <!--Name & Animation wave-->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007eff,100:0f4f99&height=180&section=header&text=Diego%20Muñoz%20&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20Networks%20%7C%20Telecommunications&descAlignY=54&descSize=16" width="100%">
+    <!--Typing & phrases-->
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=500&color=007eff&center=true&vCenter=true&multiline=false&width=500&height=50&lines=No+saben+linux%3F;I+%E2%99%A5+Python;I+didn%27t+know+what+to+put+here;Hello%2C+World!;ASM+is+powerful;Absolute+Solver%3F%3F%3F;DaiNet+Telecomunicaciones">
     <!--Visitas en GitHub-->
     <a href="https://github.com/diegojes22">
         <img src="https://komarev.com/ghpvc/?username=diegojes22&color=007eff&label=Visitas%20a%20mi%20perfil">
     </a>
-    <!--Typing & phrases-->
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=500&color=007eff&center=true&vCenter=true&multiline=false&width=500&height=50&lines=No+saben+linux%3F;I+%E2%99%A5+Python;I+didn%27t+know+what+to+put+here;Hello%2C+World!;ASM+is+powerful;Absolute+Solver%3F%3F%3F;DaiNet+Telecomunicaciones">
 </div>
 
 ----------
