@@ -104,7 +104,7 @@
 </div>
 
 **Tools**
-<div align="center">
+<div>
     <!--Figma-->
     <img src="https://img.shields.io/badge/figma-0d1117.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E">
     <!--Git-->
@@ -124,7 +124,7 @@
 ## GitHub Stats
 <div
 id="stats"
-style="display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 5px;"
+align="center"
 >
     <img src="https://github-readme-stats.vercel.app/api?username=diegojes22&show_icons=true&theme=github_dark&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojes22&layout=compact&hide_border=true&theme=github_dark">
