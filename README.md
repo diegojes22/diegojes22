@@ -18,39 +18,40 @@
     </div>
     <table align="center">
     <tr>
-        <td>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
-            <h4>Rol</h4>
-            <p>Full Stack Developer</p>
-        </div>
+        <td valign="top">
+            <div>
+                <h4>Rol</h4>
+                <p>Full Stack Developer</p>
+            </div>
         </td>
-        <td>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
-            <h4>Estudios</h4>
-            <p>Ing. en Sistemas Computacionales<br><strong>TecNM</strong></p>
-        </div>
+        <td valign="top">
+            <div>
+                <h4>Estudios</h4>
+                <p>Ing. en Sistemas Computacionales<br><strong>TecNM</strong></p>
+            </div>
         </td>
-        <td>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
-            <h4>Ubicación</h4>
-            <p>México</p>
-        </div>
+        <td valign="top">
+            <div>
+                <h4>Ubicación</h4>
+                <p>México</p>
+            </div>
         </td>
     </tr>
     <tr>
-        <td>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
-            <h4>Enfoque</h4>
-            <p>FullStack, infra y telecom</p>
-        </div>
+        <td valign="top">
+            <div>
+                <h4>Enfoque</h4>
+                <p>FullStack, infra y telecom</p>
+            </div>
         </td>
-        <td>
-        <div style="background:#161a1f;border:1px solid #24272c;border-radius:8px;padding:12px;width:200px;">
-            <h4>Aprendiendo</h4>
-            <p>Android, JWT, Angular</p>
-        </div>
+        <td valign="top">
+            <div>
+                <h4>Aprendiendo</h4>
+                <p>Android, JWT, Angular</p>
+            </div>
         </td>
-        <td></td>
+        <td valign="top">
+        </td>
     </tr>
     </table>
 </div>
