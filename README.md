@@ -4,6 +4,7 @@
     <!--Typing & phrases-->
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=500&color=007eff&center=true&vCenter=true&multiline=false&width=500&height=50&lines=No+saben+linux%3F;I+%E2%99%A5+Python;I+didn%27t+know+what+to+put+here;Hello%2C+World!;ASM+is+powerful;Absolute+Solver%3F%3F%3F;DaiNet+Telecomunicaciones">
     <!--Visitas en GitHub-->
+    <br>
     <a href="https://github.com/diegojes22">
         <img src="https://komarev.com/ghpvc/?username=diegojes22&color=007eff&label=Visitas%20a%20mi%20perfil">
     </a>
@@ -118,6 +119,8 @@
     <img src="https://img.shields.io/badge/VSCode-%230d1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
     <!--Jira-->
     <img src="https://img.shields.io/badge/jira-%230d1117.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF">
+    <!--Claude Code-->
+    <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=D97757">
 </div>
 </div>
 
