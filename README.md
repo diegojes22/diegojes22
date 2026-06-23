@@ -14,8 +14,8 @@
 ## Sobre mi
 <div id="about">
     <div class="about-me-text">
-        <p>Hola, Me llamo <b>Diego</b></p>
-        <p>Soy alguien a quien le gusta programar por diversion, en este momento soy estudiante y trabajador en una empresa de telecomunicaciones llamada <b>DaiNet Telecomunicaciones</b>.</p>
+        <p>Hola, me llamo <b>Diego</b></p>
+        <p>Soy alguien a quien le gusta programar por diversión, en este momento soy estudiante y trabajador en una empresa de telecomunicaciones llamada <b>DaiNet Telecomunicaciones</b>.</p>
     </div>
 
 ```toml
@@ -23,14 +23,14 @@
 Rol = "FullStack Developer"
 
 [Estudios]
-Lugar = "Instituto Tecnologico de La Piedad"
-Carrera = "Ingenieria en Sistemas Computacionales"
-Pais = [+52, "Mexico"]
+Lugar = "Instituto Tecnológico de La Piedad"
+Carrera = "Ingeniería en Sistemas Computacionales"
+País = [+52, "Mexico"]
 
 [Habilidades]
 stats = '''
     Telecomunicaciones e Infraestructura
-    Configuracion de entornos LINUX
+    Configuración de entornos LINUX
     Manejo de diferentes agentes de A.I.
     BACKEND con Python, Node o Java
     FRONTEND con Astro o React
@@ -39,7 +39,7 @@ stats = '''
 
 [More]
 fav_hex_code = 0x007eff
-# Creo que poner esta informacion en un TOML es mas creativo que una tabla
+# Creo que poner esta información en un TOML es mas creativo que una tabla
 ```
 
 </div>
@@ -47,9 +47,9 @@ fav_hex_code = 0x007eff
 
 ----------
 ## Tech Stack
-<div id="stack" style="display: flex; align-items: center; justity-content: center;  flex-direction: column; text-aling: center; background: #0d1117; border-radius: 5px;">
+<div id="stack" style="display: flex; align-items: center; justify-content: center;  flex-direction: column; text-align: center; background: #0d1117; border-radius: 5px;">
 
-**Languajes**
+**Languages**
 <div>
     <!--C++-->
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -71,7 +71,7 @@ fav_hex_code = 0x007eff
     <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
 </div>
 
-**Backend & Infraestructure**
+**Backend & Infrastructure**
 <div>
     <!--Fast API-->
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
@@ -125,13 +125,13 @@ Esta es la parte interesante
     <td width="50%" valign="top">
     <div>
         <h3>DaiNet WebSite</h3>
-        <p>Sitio web oficial de <strong>DaiNet telecomunicaciones</strong></p>
-        <p>El sitio web de <strong>DaiNet telecomunicaciones</strong> anteriormente tenia un diseño incompleto y con bastantes errores, por lo que el sitio fue rediseñado desde 0 utilizando Astro, ademas de que se implementaron herramientas para los clientes. Tambien se trabajo en mejorar y optimizar el SEO.</p>
+        <p>Sitio web oficial de <strong>DaiNet Telecomunicaciones</strong></p>
+        <p>El sitio web de <strong>DaiNet Telecomunicaciones</strong> anteriormente tenía un diseño incompleto y con bastantes errores, por lo que el sitio fue rediseñado desde 0 utilizando Astro, además de que se implementaron herramientas para los clientes. También se trabajó en mejorar y optimizar el SEO.</p>
         <p>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
         </p>
-        <p>Visible en <a href='https://dainetmx.com'>dainetmx.com</a></p>
+        <p>Visible en <a href='https://dainetmx.com' target='_blank'>dainetmx.com</a></p>
     </div>
     </td>
     <td width="50%" valign="top">
