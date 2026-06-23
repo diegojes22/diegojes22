@@ -15,7 +15,7 @@
 <div id="about">
     <div class="about-me-text">
         <p>Hola, Me llamo <b>Diego</b> pero para mas facil puedes llamarme D</p>
-        <p>Soy alguien a quien le gusta programar por diversion, en este momento soy estudiante y tambien trabajo en una empresa de telecomunicaciones.</p>
+        <p>Soy alguien a quien le gusta programar por diversion, en este momento soy estudiante y tambien trabajo en una empresa de telecomunicaciones llamaa <b>DaiNet Telecomunicaciones</b>.</p>
     </div>
     <table align="center">
     <tr>
@@ -42,13 +42,13 @@
         <td valign="top">
             <div>
                 <h4>Enfoque</h4>
-                <p>FullStack, infra y telecom</p>
+                <p>FullStack y Redes</p>
             </div>
         </td>
         <td valign="top">
             <div>
                 <h4>Aprendiendo</h4>
-                <p>Android, JWT, Angular</p>
+                <p>MCP, RAG, OpenClaw</p>
             </div>
         </td>
         <td valign="top">
@@ -67,22 +67,20 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <!--Java-->
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <!--JavaScript-->
-    <img src="https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <!--TypeScript-->
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <!--Python-->
     <img src="https://img.shields.io/badge/python-007eff?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <!--Netwide Assembler-->
-    <img src="https://img.shields.io/badge/NASM-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
 </div>
 
 **Frontend**
 <div>
-<!--React JS-->
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<!--React Native-->
-<img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<!--Astro-->
-<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+    <!--React JS-->
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <!--React Native-->
+    <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <!--Astro-->
+    <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
 </div>
 
 **Backend & Infraestructure**
@@ -105,22 +103,28 @@
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
+**A.I.**
+<div>
+    <!--Claude Code-->
+    <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=D97757">
+    <!--Ollama-->
+    <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white">
+    <!--OpenCode-->
+    <img src="https://img.shields.io/badge/OpenCode-%23000000.svg?style=for-the-badge&logoColor=white">
+</div>
+
 **Tools**
 <div>
     <!--Figma-->
     <img src="https://img.shields.io/badge/figma-0d1117.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E">
-    <!--Git-->
-    <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
     <!--GitHub-->
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git%20&%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
     <!--Linux-->
     <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
     <!--VS Code-->
     <img src="https://img.shields.io/badge/VSCode-%230d1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
     <!--Jira-->
     <img src="https://img.shields.io/badge/jira-%230d1117.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF">
-    <!--Claude Code-->
-    <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=D97757">
 </div>
 </div>
 
