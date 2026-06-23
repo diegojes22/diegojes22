@@ -14,48 +14,36 @@
 ## Sobre mi
 <div id="about">
     <div class="about-me-text">
-        <p>Hola, Me llamo <b>Diego</b> pero para mas facil puedes llamarme D</p>
-        <p>Soy alguien a quien le gusta programar por diversion, en este momento soy estudiante y tambien trabajo en una empresa de telecomunicaciones llamaa <b>DaiNet Telecomunicaciones</b>.</p>
+        <p>Hola, Me llamo <b>Diego</b></p>
+        <p>Soy alguien a quien le gusta programar por diversion, en este momento soy estudiante y trabajador en una empresa de telecomunicaciones llamada <b>DaiNet Telecomunicaciones</b>.</p>
     </div>
-    <table align="center">
-    <tr>
-        <td valign="top">
-            <div>
-                <h4>Rol</h4>
-                <p>Full Stack Developer</p>
-            </div>
-        </td>
-        <td valign="top">
-            <div>
-                <h4>Estudios</h4>
-                <p>Ing. en Sistemas Computacionales<br><strong>TecNM</strong></p>
-            </div>
-        </td>
-        <td valign="top">
-            <div>
-                <h4>Ubicación</h4>
-                <p>México</p>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top">
-            <div>
-                <h4>Enfoque</h4>
-                <p>FullStack y Redes</p>
-            </div>
-        </td>
-        <td valign="top">
-            <div>
-                <h4>Aprendiendo</h4>
-                <p>MCP, RAG, OpenClaw</p>
-            </div>
-        </td>
-        <td valign="top">
-        </td>
-    </tr>
-    </table>
+
+```toml
+[Perfil]
+Rol = "FullStack Developer"
+
+[Estudios]
+Lugar = "Instituto Tecnologico de La Piedad"
+Carrera = "Ingenieria en Sistemas Computacionales"
+Pais = [+52, "Mexico"]
+
+[Habilidades]
+stats = '''
+    Telecomunicaciones e Infraestructura
+    Configuracion de entornos LINUX
+    Manejo de diferentes agentes de A.I.
+    BACKEND con Python, Node o Java
+    FRONTEND con Astro o React
+    Aplicaciones nativas con Frameworks de Python
+'''
+
+[More]
+fav_hex_code = 0x007eff
+# Creo que poner esta informacion en un TOML es mas creativo que una tabla
+```
+
 </div>
+
 
 ----------
 ## Tech Stack
@@ -127,6 +115,29 @@
     <img src="https://img.shields.io/badge/jira-%230d1117.svg?style=for-the-badge&logo=jira&logoColor=0A0FFF">
 </div>
 </div>
+
+----------
+## Proyectos
+Esta es la parte interesante
+
+<table>
+<tr>
+    <td width="50%" valign="top">
+    <div>
+        <h3>DaiNet WebSite</h3>
+        <p>Sitio web oficial de <strong>DaiNet telecomunicaciones</strong></p>
+        <p>El sitio web de <strong>DaiNet telecomunicaciones</strong> anteriormente tenia un diseño incompleto y con bastantes errores, por lo que el sitio fue rediseñado desde 0 utilizando Astro, ademas de que se implementaron herramientas para los clientes. Tambien se trabajo en mejorar y optimizar el SEO.</p>
+        <p>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+        </p>
+        <p>Visible en <a href='https://dainetmx.com'>dainetmx.com</a></p>
+    </div>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+</tr>
+</table>
 
 ----------
 ## GitHub Stats
