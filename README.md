@@ -1,8 +1,8 @@
 <div align="center" id="header">
     <!--Name & Animation wave-->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007eff,100:0f4f99&height=180&section=header&text=Diego%20Muñoz%20&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20Networks%20%7C%20Telecommunications&descAlignY=54&descSize=16" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007eff,100:0f4f99&height=180&section=header&text=Diego%20Muñoz%20&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20Networks%20&descAlignY=54&descSize=16" width="100%">
     <!--Typing & phrases-->
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=500&color=007eff&center=true&vCenter=true&multiline=false&width=500&height=50&lines=No+saben+linux%3F;I+%E2%99%A5+Python;I+didn%27t+know+what+to+put+here;Hello%2C+World!;ASM+is+powerful;Absolute+Solver%3F%3F%3F;DaiNet+Telecomunicaciones">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=500&color=007eff&center=true&vCenter=true&multiline=false&width=500&height=50&lines=I+%E2%99%A5+Python;I+didn%27t+know+what+to+put+here;Hello%2C+World!;DaiNet+Telecomunicaciones">
     <!--Visitas en GitHub-->
     <br>
     <a href="https://github.com/diegojes22">
@@ -132,6 +132,10 @@ Esta es la parte interesante
         <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
         </p>
         <p>Visible en <a href='https://dainetmx.com' target='_blank'>dainetmx.com</a></p>
+        <span>
+            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#EAC452"><path d="M756-120 537-339l84-84 219 219-84 84Zm-552 0-84-84 276-276-68-68-28 28-51-51v82l-28 28-121-121 28-28h82l-50-50 142-142q20-20 43-29t47-9q24 0 47 9t43 29l-92 92 50 50-28 28 68 68 90-90q-4-11-6.5-23t-2.5-24q0-59 40.5-99.5T701-841q15 0 28.5 3t27.5 9l-99 99 72 72 99-99q7 14 9.5 27.5T841-701q0 59-40.5 99.5T701-561q-12 0-24-2t-23-7L204-120Z"/></svg>
+            <i>En Construccion</i>
+        </span>
     </div>
     </td>
     <td width="50%" valign="top">
