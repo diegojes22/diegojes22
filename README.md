@@ -25,7 +25,7 @@ Rol = "FullStack Developer"
 [Estudios]
 Lugar = "Instituto Tecnológico de La Piedad"
 Carrera = "Ingeniería en Sistemas Computacionales"
-País = [+52, "Mexico"]
+País = "Mexico"
 
 [Habilidades]
 stats = '''
@@ -147,6 +147,14 @@ Esta es la parte interesante
     </div>
     </td>
     <td width="50%" valign="top">
+    <div>
+        <h3>DaiNet <strong>MICS</strong></h3>
+        <p>Herramienta con la cual se podra documentar y consultar la infraestructura de <strong>fibra optica</strong> y redes GPON de <strong>DaiNet Telecomunicaciones</strong></p>
+        <p>Este sistema sera un mapa interactivo diseñado a medida para la empresa. Esta herramienta esta en fase muy temprana de desarrollo y el desarrollo esta en un repo privado.</p>
+        <span>
+            &lt;&lt;<i>En Construccion</i>&gt;&gt;
+        </span>
+    </div>
     </td>
 </tr>
 </table>
@@ -157,6 +165,6 @@ Esta es la parte interesante
 id="stats"
 align="center"
 >
-    <img src="https://github-readme-stats.vercel.app/api?username=diegojes22&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=diegojes22&show_icons=true&theme=github_dark&hide_border=true" alt='si ves esto significa que este servicio se cayo (otra vez >:/ )'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegojes22&layout=compact&hide_border=true&theme=github_dark">
 </div>
