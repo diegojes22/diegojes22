@@ -7,9 +7,15 @@ Soy un desarrollador **junior** cuyo pasatiempo es todo lo que involucre el desa
 
 Mi trabajo actual es en una empresa de telecomunicaciones llamada **[DaiNet Telecomunicaciones](https://dainetmx.com)**, en donde he desarrollado algunos proyectos y he tenido contacto e interacciones con infraestructura de red y telecomunicaciones.
 
+## Proyectos
+<p align="center">
+  <a href="https://dainetmx.com"><img src="./images/cards/dainet-page.svg" width="49%" alt="DaiNet Landing Page"/></a>
+</p>
+
 ## Stack
 <div align="center">
 
 ![Stack](./images/stack.svg)
 
 </div>
+
