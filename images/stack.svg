@@ -1,0 +1,1139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="438"
+  viewBox="0 0 1200 438"
+  role="img"
+  aria-label="Stack"
+>
+  <title>Stack</title>
+
+  <defs>
+    <linearGradient id="grad-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+  </defs>
+  <rect
+    x=".5"
+    y=".5"
+    width="1199"
+    height="437"
+    rx="14"
+    fill="url(#grad-bg)"
+    stroke="#242424"
+  />
+
+  <text
+    x="40"
+    y="52"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="13"
+    font-weight="700"
+    fill="#007eff"
+    text-anchor="start"
+    letter-spacing="2"
+  >
+    STACK
+  </text>
+
+  <text
+    x="1160"
+    y="52"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="12"
+    font-weight="400"
+    fill="#5c5c5c"
+    text-anchor="end"
+  >
+    . . .
+  </text>
+
+  <path
+    id="rail"
+    d="M48,381 C40,370 56,359 48,348 S40,326 48,315 S56,293 48,282 S40,260 48,249 S56,227 48,216 S40,194 48,183 S56,161 48,150 S40,128 48,117 S56,95 48,84 S40,68 48,57"
+    stroke="#3a3a3a"
+    fill="none"
+  />
+
+  <line x1="80" y1="84" x2="1160" y2="84" stroke="#242424" />
+
+  <rect x="44" y="107.0" width="8" height="8" fill="#0a0a0a" stroke="#8c8c8c" />
+
+  *<!-- Tecnologias AI -->*
+
+  <text
+    x="80"
+    y="116.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="15"
+    font-weight="600"
+    fill="#f5f5f5"
+    text-anchor="start"
+  >
+    Inteligencia Artificial
+  </text>
+
+  <g aria-label="Icono genérico de DeepSeek" transform="translate(271.0 103.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      DS
+    </text>
+  </g>
+  <text
+    x="294"
+    y="116.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    DeepSeek
+  </text>
+
+  <g aria-label="Icono genérico de Ollama" transform="translate(515.0 103.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      OL
+    </text>
+  </g>
+  <text
+    x="538.0"
+    y="116.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Ollama
+  </text>
+
+  <g
+    aria-label="Icono genérico de Open Code"
+    transform="translate(378.6 103.5)"
+  >
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      OC
+    </text>
+  </g>
+  <text
+    x="401.6"
+    y="116.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Open Code
+  </text>
+
+  <g aria-label="Icono genérico de Jev AI" transform="translate(608.2 103.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      JV
+    </text>
+  </g>
+  <text
+    x="631.2"
+    y="116.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Jev AI
+  </text>
+
+  <line x1="80" y1="138" x2="1160" y2="138" stroke="#242424" />
+
+  <rect x="44" y="161.0" width="8" height="8" fill="#0a0a0a" stroke="#8c8c8c" />
+
+  *<!-- UI -->*
+
+  <text
+    x="80"
+    y="170.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="15"
+    font-weight="600"
+    fill="#f5f5f5"
+    text-anchor="start"
+  >
+    UI y FrontEnd
+  </text>
+
+  <g aria-label="Icono genérico de React" transform="translate(271.0 157.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Re
+    </text>
+  </g>
+  <text
+    x="294"
+    y="170.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    React
+  </text>
+
+  <g aria-label="Icono genérico de Astro" transform="translate(357.0 157.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      As
+    </text>
+  </g>
+  <text
+    x="380.0"
+    y="170.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Astro
+  </text>
+
+  <g
+    aria-label="Icono genérico de TypeScript"
+    transform="translate(457.4 157.5)"
+  >
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      TS
+    </text>
+  </g>
+  <text
+    x="480.4"
+    y="170.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    TypeScript
+  </text>
+
+  <g
+    aria-label="Icono genérico de TailwindCSS"
+    transform="translate(579.4 157.5)"
+  >
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      TW
+    </text>
+  </g>
+  <text
+    x="602.4"
+    y="170.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    TailwindCSS
+  </text>
+
+  *<!-- Deploy  hosting -->*
+
+  <line x1="80" y1="192" x2="1160" y2="192" stroke="#242424" />
+
+  <rect x="44" y="215.0" width="8" height="8" fill="#0a0a0a" stroke="#8c8c8c" />
+
+  <text
+    x="80"
+    y="224.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="15"
+    font-weight="600"
+    fill="#f5f5f5"
+    text-anchor="start"
+  >
+    Despliegue
+  </text>
+
+  <g aria-label="Icono genérico de Vercel" transform="translate(271.0 211.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Ve
+    </text>
+  </g>
+  <text
+    x="294"
+    y="224.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Vercel
+  </text>
+
+  <g
+    aria-label="Icono genérico de Hostinger"
+    transform="translate(364.2 211.5)"
+  >
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Ho
+    </text>
+  </g>
+  <text
+    x="387.2"
+    y="224.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Hostinger
+  </text>
+
+  <g
+    aria-label="Icono genérico de GitHub Actions"
+    transform="translate(457.4 211.5)"
+  >
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      GH
+    </text>
+  </g>
+  <text
+    x="480.4"
+    y="224.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    GitHub Actions
+  </text>
+
+  <line x1="80" y1="246" x2="1160" y2="246" stroke="#242424" />
+
+  <rect x="44" y="269.0" width="8" height="8" fill="#0a0a0a" stroke="#8c8c8c" />
+
+  <text
+    x="80"
+    y="278.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="15"
+    font-weight="600"
+    fill="#f5f5f5"
+    text-anchor="start"
+  >
+    Backend y datos
+  </text>
+
+  <g aria-label="Icono genérico de Node.js" transform="translate(271.0 265.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      JS
+    </text>
+  </g>
+  <text
+    x="294"
+    y="278.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Node.js
+  </text>
+
+  <g aria-label="Icono genérico de MySQL" transform="translate(371.4 265.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      My
+    </text>
+  </g>
+  <text
+    x="394.4"
+    y="278.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    MySQL
+  </text>
+
+  <g
+    aria-label="Icono genérico de PostgreSQL"
+    transform="translate(471.8 265.5)"
+  >
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      PG
+    </text>
+  </g>
+  <text
+    x="494.79999999999995"
+    y="278.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    PostgreSQL
+  </text>
+
+  <g aria-label="Icono genérico de MongoDB" transform="translate(593.8 265.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Mo
+    </text>
+  </g>
+  <text
+    x="616.8"
+    y="278.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    MongoDB
+  </text>
+
+  <g aria-label="Icono genérico de Supabase" transform="translate(687.0 265.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Su
+    </text>
+  </g>
+  <text
+    x="710.0"
+    y="278.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Supabase
+  </text>
+
+  <g aria-label="Icono genérico de FastAPI" transform="translate(794.6 265.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="5.2"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      API
+    </text>
+  </g>
+  <text
+    x="817.6"
+    y="278.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    FastAPI
+  </text>
+
+  *<!-- Protocolos  -->*
+
+  <line x1="80" y1="300.0" x2="1160" y2="300.0" stroke="#242424" />
+
+  <rect x="44" y="323.0" width="8" height="8" fill="#0a0a0a" stroke="#8c8c8c" />
+
+  <text
+    x="80"
+    y="332.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="15"
+    font-weight="600"
+    fill="#f5f5f5"
+    text-anchor="start"
+  >
+    Lenguajes
+  </text>
+
+  <g aria-label="Icono genérico de Python" transform="translate(271.0 319.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Py
+    </text>
+  </g>
+  <text
+    x="294"
+    y="332.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Python
+  </text>
+
+  <g aria-label="Icono genérico de C/C++" transform="translate(357.0 319.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="5.2"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      C++
+    </text>
+  </g>
+  <text
+    x="380.0"
+    y="332.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    C/C++
+  </text>
+
+  <g aria-label="Icono genérico de Java" transform="translate(443.0 319.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Ja
+    </text>
+  </g>
+  <text
+    x="466.0"
+    y="332.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Java
+  </text>
+
+  <g
+    aria-label="Icono genérico de TypeScript"
+    transform="translate(550.6 319.5)"
+  >
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      TS
+    </text>
+  </g>
+  <text
+    x="573.6"
+    y="332.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    TS
+  </text>
+
+  <g aria-label="Icono genérico de SQL" transform="translate(629.4 319.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="5.2"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      SQL
+    </text>
+  </g>
+  <text
+    x="670.4"
+    y="332.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    SQL
+  </text>
+
+  <g aria-label="Icono genérico de ASM" transform="translate(729.8 319.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="5.2"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      ASM
+    </text>
+  </g>
+  <text
+    x="770.8"
+    y="332.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    ASM
+  </text>
+
+  *<!--Otras cosas-->*
+
+  <line x1="80" y1="354.0" x2="1160" y2="354.0" stroke="#242424" />
+
+  <rect x="44" y="377.0" width="8" height="8" fill="#0a0a0a" stroke="#8c8c8c" />
+
+  <text
+    x="80"
+    y="386.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="15"
+    font-weight="600"
+    fill="#f5f5f5"
+    text-anchor="start"
+  >
+    Más
+  </text>
+
+  <g aria-label="Icono genérico de Linux" transform="translate(271.0 373.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Li
+    </text>
+  </g>
+  <text
+    x="294"
+    y="386.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Linux
+  </text>
+
+  <g aria-label="Icono genérico de Git" transform="translate(357.0 373.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Gi
+    </text>
+  </g>
+  <text
+    x="380.0"
+    y="386.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Git
+  </text>
+
+  <g aria-label="Icono genérico de Figma" transform="translate(457.4 373.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="6.4"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      Fi
+    </text>
+  </g>
+  <text
+    x="480.4"
+    y="386.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    Figma
+  </text>
+
+  <g aria-label="Icono genérico de SSH" transform="translate(565.0 373.5)">
+    <rect
+      x="0"
+      y="0"
+      width="15"
+      height="15"
+      rx="3"
+      fill="#15191f"
+      stroke="#5c6570"
+      stroke-width="0.8"
+    />
+    <text
+      x="7.5"
+      y="10.2"
+      font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace"
+      font-size="5.2"
+      font-weight="700"
+      fill="#f5f5f5"
+      text-anchor="middle"
+    >
+      SSH
+    </text>
+  </g>
+  <text
+    x="588.0"
+    y="386.0"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="13"
+    font-weight="400"
+    fill="#8c8c8c"
+    text-anchor="start"
+  >
+    SSH
+  </text>
+
+  <line x1="80" y1="408.0" x2="1160" y2="408.0" stroke="#242424" />
+
+  <circle r="3.5" fill="#007eff">
+    <animateMotion dur="5s" begin="0s" repeatCount="indefinite">
+      <mpath href="#rail" />
+    </animateMotion>
+  </circle>
+</svg>

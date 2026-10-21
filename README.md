@@ -25,7 +25,7 @@ Rol = "FullStack Developer"
 [Estudios]
 Lugar = "Instituto Tecnológico de La Piedad"
 Carrera = "Ingeniería en Sistemas Computacionales"
-País = "Mexico"
+Pais = "Mexico"
 
 [Habilidades]
 stats = '''
@@ -39,10 +39,10 @@ stats = '''
 
 [Aprendiendo]
 learn = '''
-    MCP
-    RAG
-    
-    PYTHON FLET
+    Spring Boot
+    Supabase
+
+    SVG
 '''
 
 [More]
@@ -55,7 +55,7 @@ fav_hex_code = 0x007eff
 
 ----------
 ## Tech Stack
-<div id="stack" style="display: flex; align-items: center; justify-content: center;  flex-direction: column; text-align: center; background: #0d1117; border-radius: 5px;">
+<div id="stack" style="display: flex; align-items: center; justify-content: center;  flex-direction: column; text-align: center; background: #0d1117; border-radius: 5px;" align="center">
 
 **Languages**
 <div>

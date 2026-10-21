@@ -1,0 +1,87 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 301 301"
+  role="img"
+  aria-label="animated-face"
+  xmlns:c2pa="http://c2pa.org/manifest"
+>
+  <defs>
+    <radialGradient id="face-gradient" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="60%" stop-color="#DCE7F5" />
+      <stop offset="100%" stop-color="#8CA5C8" />
+    </radialGradient>
+  </defs>
+
+  <!-- Face BG -->
+  <circle class="face" cx="150.5" cy="150.5" r="150.5" />
+
+  <!-- Eyes -->
+  <g class="look">
+    <rect class="eye" x="92" y="71" width="25" height="100" rx="11" ry="11" />
+    <rect class="eye" x="188" y="71" width="25" height="100" rx="11" ry="11" />
+  </g>
+  <style>
+    :root {
+      --blink-every: 3.5s;      /* flicker time */
+      --look-every: 8s;         /* loop time    */
+    }
+    .face {
+      fill: url(#face-gradient);
+    }
+    .eye {
+      fill: #000000;
+    }
+
+    /* eyes move */
+    .look {
+      animation: look var(--look-every) ease-in-out infinite;
+    }
+    @keyframes look {
+      0%,
+      10% {
+        transform: translate(0, 0);
+      }
+      20%,
+      35% {
+        transform: translate(-22px, 0);
+      }
+      45%,
+      60% {
+        transform: translate(22px, -8px);
+      }
+      70%,
+      85% {
+        transform: translate(0, 10px);
+      }
+      95%,
+      100% {
+        transform: translate(0, 0);
+      }
+    }
+
+    /* flick effect */
+    .eye {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: blink var(--blink-every) infinite;
+    }
+    @keyframes blink {
+      0%,
+      92%,
+      100% {
+        transform: scaleY(1);
+      }
+      96% {
+        transform: scaleY(0.08);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .look,
+      .eye {
+        animation: none;
+      }
+    }
+  </style>
+</svg>
