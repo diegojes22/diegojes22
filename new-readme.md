@@ -10,6 +10,7 @@ Mi trabajo actual es en una empresa de telecomunicaciones llamada **[DaiNet Tele
 ## Proyectos
 <p align="center">
   <a href="https://dainetmx.com"><img src="./images/cards/dainet-page.svg" width="49%" alt="DaiNet Landing Page"/></a>
+  <a><img src="./images/cards/mics-page.svg" width="49%" alt="DaiNet Mics"/></a>
 </p>
 
 ## Stack

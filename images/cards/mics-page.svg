@@ -1,0 +1,115 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="590"
+  height="400"
+  viewBox="0 0 590 400"
+  role="img"
+  aria-labelledby="card-title"
+>
+  <title id="card-title">DaiNet MICS</title>
+
+  <radialGradient id="font-gradient" cx="35%" cy="30%" r="75%">
+    <stop offset="0%" stop-color="#ffbf4a" />
+    <stop offset="100%" stop-color="#ff7548" />
+  </radialGradient>
+
+  <!-- Fondo -->
+  <rect
+    x="0.5"
+    y="0.5"
+    width="589"
+    height="399"
+    rx="14"
+    fill="#0a0a0a"
+    stroke="#242424"
+  />
+
+  <!-- Encabezado -->
+  <text
+    x="36"
+    y="49"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="12"
+    font-weight="400"
+    fill="url(#font-gradient)"
+    letter-spacing="2"
+  >Mapa Interactivo de Cobertura de Servicio</text>
+
+  <!-- Icono alineado con el encabezado -->
+  <image
+  href="../others/mics.png"
+  x="506"
+  y="25"
+  height="40"
+  preserveAspectRatio="xMidYMid meet"
+/>
+
+  <!-- Título -->
+  <text
+    x="36"
+    y="101"
+    font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="42"
+    font-weight="700"
+    fill="#f5f5f5"
+    letter-spacing="-1"
+  >M.I.C.S.</text>
+
+  <!-- Descripción -->
+  <g
+    font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="15"
+    font-weight="400"
+    fill="#8c8c8c"
+  >
+    <text x="36" y="136">Mapa interactivo con el cual se podra</text>
+    <text x="36" y="159">consultar, visualizar y documentar las</text>
+    <text x="36" y="182">redes PON de Dainet Telecomunicaciones.</text>
+    <text x="36" y="205">Todo esto de forma simple!</text>
+  </g>
+
+  <!-- Separador principal -->
+  <line
+    x1="36"
+    y1="294"
+    x2="554"
+    y2="294"
+    stroke="#242424"
+  />
+
+  <!-- Tecnologías -->
+  <text
+    x="36"
+    y="326"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="12.5"
+    fill="#5c5c5c"
+  >Fast API | Mongo DB | React | TS | Python</text>
+
+  <!-- Separador del pie -->
+  <line
+    x1="36"
+    y1="348"
+    x2="554"
+    y2="348"
+    stroke="#242424"
+  />
+
+  <!-- Estado del proyecto -->
+  <rect
+    x="36"
+    y="370"
+    width="7"
+    height="7"
+    fill="#8c8c8c"
+  />
+
+  <text
+    x="52"
+    y="378"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="12"
+    fill="#8c8c8c"
+  >En desarrollo</text>
+
+</svg>
