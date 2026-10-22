@@ -1,0 +1,108 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="590"
+  height="400"
+  viewBox="0 0 590 400"
+  role="img"
+  aria-labelledby="card-title"
+>
+  <title id="card-title">DaiNet QG page</title>
+
+  <!-- Fondo -->
+  <rect
+    x="0.5"
+    y="0.5"
+    width="589"
+    height="399"
+    rx="14"
+    fill="#0a0a0a"
+    stroke="#242424"
+  />
+
+  <!-- Encabezado -->
+  <text
+    x="36"
+    y="49"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="12"
+    font-weight="400"
+    fill="#007eff"
+    letter-spacing="2"
+  >DaiNet Qr Generator</text>
+
+  <!-- Título -->
+  <text
+    x="36"
+    y="101"
+    font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="42"
+    font-weight="700"
+    fill="#f5f5f5"
+    letter-spacing="-1"
+  >DaiNet Q.G.</text>
+
+  <!-- Descripción -->
+  <g
+    font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"
+    font-size="15"
+    font-weight="400"
+    fill="#8c8c8c"
+  >
+    <text x="36" y="136">Generador de tarjetas Wifi con Qr</text>
+    <text x="36" y="159">Herramienta interna de DaiNet Telecomunicaciones</text>
+  </g>
+
+  <!-- Separador principal -->
+  <line
+    x1="36"
+    y1="294"
+    x2="554"
+    y2="294"
+    stroke="#242424"
+  />
+
+  <!-- Tecnologías -->
+  <text
+    x="36"
+    y="326"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="12.5"
+    fill="#5c5c5c"
+  >React | TypeScript</text>
+
+  <!-- Separador del pie -->
+  <line
+    x1="36"
+    y1="348"
+    x2="554"
+    y2="348"
+    stroke="#242424"
+  />
+
+  <!-- Estado del proyecto -->
+  <rect
+    x="36"
+    y="370"
+    width="7"
+    height="7"
+    fill="#8c8c8c"
+  />
+
+  <text
+    x="52"
+    y="378"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="12"
+    fill="#8c8c8c"
+  >Proyecto finalizado</text>
+
+  <!-- Enlace -->
+  <text
+    x="554"
+    y="378"
+    font-family="'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace"
+    font-size="12.5"
+    fill="#f5f5f5"
+    text-anchor="end"
+  >qg.dainetmx.com →</text>
+</svg>

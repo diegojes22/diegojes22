@@ -23,6 +23,9 @@ Estos son algunos de los proyectos en los que he participado. Echa un vistazo!
   <a href="https://nexaqua.com.mx">
     <img src="./images/cards/nexaqua-page.svg" width="49%"/>
   </a>
+  <a>
+    <img src="./images/cards/dainet-qg-page.svg" width="49%"/>
+  </a>
 </p>
 </div>
 
