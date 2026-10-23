@@ -40,7 +40,7 @@ Estos son algunos de los proyectos en los que he participado. Echa un vistazo!
 ---
 
 <div align="center">
-
-![Vistas de mi perfil](https://komarev.com/ghpvc/?username=diegojes22&color=007eff&label=Visitas%20a%20mi%20perfil)
-
+<a href="https://github.com/diegojes22">
+  <img src="https://komarev.com/ghpvc/?username=diegojes22&color=007eff&label=Visitas%20a%20mi%20perfil">
+</a>
 </div>
